@@ -1,0 +1,59 @@
+File|Field|Description
+world_indicators_data.csv|Country Name|The name of the country
+world_indicators_data.csv|Country Code|The three letter code representing the country
+world_indicators_data.csv|Region|The World Bank region of the country
+world_indicators_data.csv|IncomeGroup|The World Bank Income Group of the country
+world_indicators_data.csv|Year|The Year in which the statistics were recorded
+world_indicators_data.csv|"Birth rate| crude (per 1|000 people)"|The Birth rate per 1000 people in the country
+world_indicators_data.csv|"Death rate| crude (per 1|000 people)"|The death rate per 1000 people in the country
+world_indicators_data.csv|Electric power consumption (kWh per capita)|The electricity consumper per person in kilowatt-hours in the country
+world_indicators_data.csv|GDP (USD)|"The gross domestic product| or total economic output of the country"
+world_indicators_data.csv|GDP per capita (USD)|"The gross domestic product| or economic output per person in the country"
+world_indicators_data.csv|Individuals using the Internet (% of population)|The percentage of individuals using the internet in each country
+world_indicators_data.csv|"Infant mortality rate (per 1|000 live births)"|The infant mortality rate per 1000 births in the country
+world_indicators_data.csv|Life expectancy at birth (years)|The life expectancy in years at birth in the country
+world_indicators_data.csv|Population density (people per sq. km of land area)|The number of people per square kilometer in the country
+world_indicators_data.csv|Unemployment (% of total labor force) (modeled ILO estimate)|The percentage of the labor force that is not employed
+world_indicators_data_human_development_index.csv|iso3|The three letter code representing the country
+world_indicators_data_human_development_index.csv|country|The name of the country
+world_indicators_data_human_development_index.csv|hdicode|The hdi grouping from the UN
+world_indicators_data_human_development_index.csv|region|The UNDP development regions
+world_indicators_data_human_development_index.csv|hdi_rank_2021|The country's  HDI rank in 2021
+world_indicators_data_human_development_index.csv|hdi_xxxx|The country's HDI in year xxxx
+world_indicators_data_human_development_index.csv|le_xxxx|The country's life expectancy in year xxxx
+world_indicators_data_human_development_index.csv|eys_xxxx|The country's expeected years of schooling
+world_indicators_data_human_development_index.csv|mys_xxxx|The country's mean years of schooling
+world_indicators_data_human_development_index.csv|gnipc_xxxx|The gross national income per capita in 2017 PPP dollars
+world_indicators_data_human_development_index.csv|gdi_group_2021|The Gender Development Group
+world_indicators_data_human_development_index.csv|gdi_xxxx|Gender Development Index in year xxxx
+world_indicators_data_human_development_index.csv|hdi_f_xxxx|Female HDI in year xxxx
+world_indicators_data_human_development_index.csv|le_f_xxxx|Female life expectancy at birth in year xxxx
+world_indicators_data_human_development_index.csv|eys_f_xxxx|Female expected years of schooling in year xxxx
+world_indicators_data_human_development_index.csv|mys_f_xxxx|Female mean years of schooling in year xxxx
+world_indicators_data_human_development_index.csv|gni_pc_f_xxxx|Female GNI per capita in year xxxx
+world_indicators_data_human_development_index.csv|hdi_m_xxxx|Female HDI in year xxxx
+world_indicators_data_human_development_index.csv|le_m_xxxx|Male life expectancy at birth in year xxxx
+world_indicators_data_human_development_index.csv|eys_m_xxxx|Male expected years of schooling in year xxxx
+world_indicators_data_human_development_index.csv|mys_m_xxxx|Male mean years of schooling in year xxxx
+world_indicators_data_human_development_index.csv|gni_pc_m_xxxx|Male GNI per capita in year xxxx
+world_indicators_data_human_development_index.csv|ihdi_xxxx|Inequality Adjusted HDI in year xxxx
+world_indicators_data_human_development_index.csv|coef_ineq_xxxx|Coefficient of human inequality in year xxxx
+world_indicators_data_human_development_index.csv|loss_xxxx|Overall loss (%) in year xxxx
+world_indicators_data_human_development_index.csv|ineq_le_xxxx|Inequality in life expectancy in year xxxx
+world_indicators_data_human_development_index.csv|ineq_edu_xxxx|Inequality in education in year xxxx
+world_indicators_data_human_development_index.csv|ineq_inc_xxxx|Inequality in income in year xxxx
+world_indicators_data_human_development_index.csv|gii_rank_2021|Gender Inequality index rank in 2021
+world_indicators_data_human_development_index.csv|gii_xxxx|Gender inequality index in year xxxx
+world_indicators_data_human_development_index.csv|mmr_xxxx|"Maternal Mortality Ratio (deaths per 100|000 live births) in year xxxx"
+world_indicators_data_human_development_index.csv|abr_xxxx|Adolescent birth rate (births per 1000 women aged 15-19) in year xxxx
+world_indicators_data_human_development_index.csv|se_f_xxxx|"Population with at least some secondary education| female (% ages 25 and older) in year xxxx"
+world_indicators_data_human_development_index.csv|se_m_xxxx|"Population with at least some secondary education| male (% ages 25 and older) in year xxxx"
+world_indicators_data_human_development_index.csv|pr_f_xxxx|"Share of seats in parliament| female (% held by women) in year xxxx"
+world_indicators_data_human_development_index.csv|pr_m_xxxx|"Share of seats in parliament| male (% held by men) in year xxxx"
+world_indicators_data_human_development_index.csv|lfpr_f_xxxx|"Labour force participation rate| female (% ages 15 and older) in year xxxx"
+world_indicators_data_human_development_index.csv|lfpr_m_xxxx|"Labour force participation rate| male (% ages 15 and older) in year xxxx"
+world_indicators_data_human_development_index.csv|rankdiff_hdi_phdi_2021|Difference in HDI rank from 2020
+world_indicators_data_human_development_index.csv|phdi_xxxx|Planetary pressures�adjusted Human Development Index (value) in year xxxx
+world_indicators_data_human_development_index.csv|diff_hdi_phdi_xxxx|Difference from HDI value (%) in year xxxx
+world_indicators_data_human_development_index.csv|co2_prod_xxxx|Carbon dioxide emissions per capita (production) (tonnes) in year xxxx
+world_indicators_data_human_development_index.csv|mf_xxxx|Material footprint per capita (tonnes) in year xxxx
