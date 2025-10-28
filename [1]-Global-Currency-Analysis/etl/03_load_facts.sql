@@ -10,7 +10,7 @@ SELECT
     srd.value
 FROM staging_raw_data AS srd
 INNER JOIN dim_country AS dc
-    ON COALESCE(srd.country_code, 'UNK') = dc.country_key
+    ON COALESCE(srd.country_key, 'UNK') = dc.country_key
 INNER JOIN dim_indicator AS di
     ON srd.indicator_key = di.indicator_key
 INNER JOIN dim_date AS dd 
